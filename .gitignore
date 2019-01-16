@@ -75,3 +75,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#UE4 additional
+Puzzle4Game/Saved/Logs/*
+Puzzle4Game/Saved/Config/CrashReportClient/*
+Puzzle4Game/Saved/Autosaves/Game/SideScrollerBP/*
+Puzzle4Game/Saved/Backup/*
